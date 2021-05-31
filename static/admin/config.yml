@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: jamesbrown5292/propsite-cms
-  branch: main
+  branch: master
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
     update: 'Update {{collection}} “{{slug}}”'
